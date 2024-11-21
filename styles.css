@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background: black;
+    margin: 40px;
+    font-family: "Chakra Petch", sans-serif;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+
+h1 {
+    border-bottom: solid 2px red;
+    padding: 10px;
+    
+}
+h2 { 
+    font-size: 35px;
+}
+
+img {
+    height: 245px;
+    margin: 15px;
+}
+.categoria-videos {
+    display: flex;
+}
+
+
+
+
